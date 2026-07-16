@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Mohamed Muktar 👋
 
-<!--
-**mohamuktar/mohamuktar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Cybersecurity Operations student at Highline College
+- 🐧 Linux enthusiast
+- 🌐 Studying Networking
+- 🐍 Learning Python
+- 🔐 Building my cybersecurity portfolio one lab at a time
 
-Here are some ideas to get you started:
+## Current Learning
+- Networking
+- Linux
+- Python
 
-- 🔭 I’m currently working on mini projects
-- 🌱 I’m currently learning cyber operations
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Featured Projects
+- Learning-Python
+- cybersecurity-journey
+
+## Certifications (In Progress)
+
+
+## Connect With Me
+- LinkedIn
