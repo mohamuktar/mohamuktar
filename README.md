@@ -1,12 +1,6 @@
 ## Hi, I'm Mohamed Muktar 👋
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-muktar-911a1a3b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mohamedmuktar.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
-</p>
-
-
 ## About Me
 - 🎓 Cybersecurity Operations student at Highline College
 - 🐧 Linux enthusiast
