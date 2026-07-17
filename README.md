@@ -15,7 +15,7 @@
 
 ## Featured Projects
 - Learning-Python
-- cybersecurity-journey
+- 
 
 ## Certifications (In Progress)
 
