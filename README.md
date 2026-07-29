@@ -122,7 +122,6 @@ graph LR
 
 | Certification | Status |
 | :--- | :--- |
-| Google Cybersecurity Professional Certificate | In progress |
 | CompTIA Security+ | Planned |
 | CompTIA Network+ | Planned |
 | Cisco CCNA | Planned |
@@ -133,16 +132,16 @@ graph LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamuktar&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamuktar&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=tokyonight" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=mohamuktar&hide_border=true&theme=tokyonight" alt="Contribution streak" />
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohamuktar&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
