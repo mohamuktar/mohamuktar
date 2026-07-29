@@ -128,20 +128,17 @@ graph LR
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamuktar&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamuktar&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamuktar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<br />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamuktar&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=mohamuktar&hide_border=true&theme=tokyonight" alt="Contribution streak" />
+<br><br>
 
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohamuktar&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+<img width="70%" src="https://streak-stats.demolab.com?user=mohamuktar&theme=tokyonight&hide_border=true" />
 
 </div>
 
