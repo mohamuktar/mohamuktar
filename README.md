@@ -102,7 +102,6 @@ Additional tools:
 Platforms and environments I use:
 
 - TryHackMe
-- Hack The Box
 - OverTheWire
 - Kali Linux
 - Virtual Machines
@@ -159,7 +158,6 @@ Areas I am developing:
 
 | Certification | Status |
 |---|---|
-| Google Cybersecurity Certificate | In Progress |
 | CompTIA Security+ | Planned |
 | CompTIA Network+ | Planned |
 | Cisco CCNA | Planned |
@@ -194,20 +192,42 @@ Areas I am developing:
 
 # ✍️ Writing & Knowledge Sharing
 
-I believe documentation is part of becoming better at cybersecurity.
+<div align="center">
 
-Topics I write about:
+<img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
 
-- Linux notes
-- Cybersecurity concepts
-- Python projects
-- SQL fundamentals
-- Troubleshooting experiences
-- Learning reflections
+<br><br>
 
-📝 Substack:
+<a href="https://mohamedmuktar.substack.com/">
+<img src="https://img.shields.io/badge/Read%20My%20Cybersecurity%20Notes-000000?style=for-the-badge&logo=substack&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+I believe documenting what I learn is part of becoming better at cybersecurity.
+
+Through my writing, I share:
+
+- 🐧 Linux notes and command-line discoveries
+- 🌐 Networking concepts and labs
+- 🐍 Python projects and automation practice
+- 🛢️ SQL fundamentals and database experiments
+- 🔐 Cybersecurity concepts and learning reflections
+- 🧪 Hands-on lab experiences and troubleshooting
+
+<br>
+
+<div align="center">
+
+<a href="https://mohamedmuktar.substack.com/">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:0f2027,100:2c5364&text=Mohamed%20Muktar%20%E2%80%94%20Cybersecurity%20Notes&fontColor=ffffff&fontSize=22&fontAlignY=50" />
+</a>
+
+</div>
   
-YOUR_SUBSTACK_URL
+
 
 ---
 
