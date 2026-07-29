@@ -43,6 +43,10 @@ I believe security is a practical discipline. Reading about a concept is a start
 
 📚 &nbsp;Building my portfolio through projects and labs
 
+## 📈 Contribution Activity
+
+[![Mohamed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamuktar&theme=tokyo-night)](https://github.com/mohamuktar)
+
 ---
 
 ## Current Learning
