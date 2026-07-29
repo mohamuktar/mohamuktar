@@ -1,193 +1,181 @@
-<!-- =========================
-      Mohamed Muktar README
-========================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohamed%20Muktar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Operations%20Student%20|%20Linux%20Enthusiast%20|%20Aspiring%20SOC%20Analyst&descAlignY=58"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Mohamed%20Muktar&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Cybersecurity%20Operations%20Student&descAlignY=58&descSize=18&animation=fadeIn" alt="Mohamed Muktar — Cybersecurity Operations Student" />
 
-<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Cybersecurity+Operations+Student;Linux+%7C+Networking+%7C+Python;Learning+by+building+and+documenting;Aspiring+SOC+Analyst" alt="Typing animation" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Operations+Student;Linux+Enthusiast;Networking+Learner;Python+Programmer;SQL+Explorer;Building+My+Cybersecurity+Portfolio)](https://git.io/typing-svg)
+<br />
 
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 
----
-
-# 👋 Hi, I'm Mohamed Muktar
-
-I'm a Cybersecurity Operations student at **Highline College** passionate about learning through hands-on projects. I enjoy working with Linux, networking, Python, SQL, and cybersecurity labs while documenting my progress on GitHub.
+</div>
 
 ---
 
-# 🚀 About Me
+## Introduction
 
-- 🎓 Cybersecurity Operations Student @ Highline College
-- 🔐 Aspiring SOC Analyst
-- 🐧 Linux Enthusiast
-- 🌐 Studying Computer Networking
-- 🐍 Learning Python
-- 🛢️ Learning SQL with MariaDB
-- 📚 Building my cybersecurity portfolio one project at a time
-- 💡 Always learning something new
+Hi, I'm **Mohamed Muktar** — a Cybersecurity Operations student at **Highline College**, working toward a career as a **SOC Analyst**.
+
+My learning happens in the terminal. I set up labs, break things on purpose, read the error messages, and write down what I learned. Right now that means getting fluent with **Linux**, understanding how traffic actually moves across a **network**, automating repetitive work with **Python**, and querying data with **SQL**.
+
+I believe security is a practical discipline. Reading about a concept is a starting point — configuring it, testing it, and documenting the result is where it becomes real knowledge. This profile is where I keep the record of that work.
 
 ---
 
-# 🌱 Currently Learning
+## About Me
 
-- 🐧 Linux
-- 🌐 Networking
-- 🐍 Python
-- 🛢️ SQL & MariaDB
-- 🔐 Cybersecurity Fundamentals
+🎓 &nbsp;Cybersecurity Operations Student
 
----
+🐧 &nbsp;Linux enthusiast
 
-# 🛠 Tech Stack
+🌐 &nbsp;Networking learner
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,python,mysql,git,github,vscode" />
-</p>
+🐍 &nbsp;Python programmer
+
+🔐 &nbsp;Cybersecurity learner
+
+📚 &nbsp;Building my portfolio through projects and labs
 
 ---
 
-# 🎯 2026 Learning Goals
+## Current Learning
 
-- ✅ Become comfortable using Linux every day
-- ✅ Build Python automation scripts
-- ✅ Learn SQL fundamentals
-- ✅ Strengthen networking knowledge
-- 🔄 Complete cybersecurity labs
-- 🔄 Build a professional GitHub portfolio
-- 🔄 Prepare for Security+
-
----
-
-# 📂 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🐍 Learning-Python | Beginner Python programs and exercises |
-| 🛢️ Learning-SQL | SQL fundamentals using MariaDB |
-| 🔐 Cybersecurity Journey | Notes, labs, and cybersecurity projects |
-| 🌐 CCNA Journey *(Coming Soon)* | Networking notes and Packet Tracer labs |
+| Focus | What I'm working on |
+| :--- | :--- |
+| **Linux** | Command line, file systems, permissions, shell navigation |
+| **Networking** | Protocols, addressing, routing and switching fundamentals |
+| **Python** | Scripting, problem solving, and automating repetitive tasks |
+| **SQL / MariaDB** | Databases, tables, queries, and reading data from the terminal |
+| **Cybersecurity Fundamentals** | Core security concepts, defensive practices, and lab work |
+| **Git & GitHub** | Version control, repository structure, and documenting projects |
 
 ---
 
-# 📈 GitHub Statistics
+## Technology Stack
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📚 Current Focus
-
-```text
-🐧 Linux Administration
-
-🌐 Networking Fundamentals
-
-🐍 Python Programming
-
-🛢️ SQL & Databases
-
-🔐 Cybersecurity Labs
-
-💻 Git & GitHub
-```
-
----
-
-# 🗺️ Learning Roadmap
-
-```text
-Linux            ███████████░░░░░░
-
-Python           ████████░░░░░░░░░
-
-Networking       ███████░░░░░░░░░░
-
-SQL              ██████░░░░░░░░░░░
-
-Cybersecurity    █████████░░░░░░░░
-```
-
----
-
-# 📜 Certifications
-
-### In Progress
-
-- 🎓 Google Cybersecurity Professional Certificate
-- 📘 CompTIA Security+ *(Planned)*
-- 📘 CompTIA Network+ *(Planned)*
-- 📘 Cisco CCNA *(Planned)*
-
----
-
-# ✍️ Latest Articles
-
-Coming soon on Substack...
-
-- Linux Notes
-- SQL Fundamentals
-- Python Projects
-- Cybersecurity Write-ups
-
----
-
-# 🤝 Connect With Me
+**Currently working with**
 
 <p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="YOUR_GITHUB_URL">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,mysql,git,github,vscode&theme=dark" alt="Linux, Bash, Python, MySQL, Git, GitHub, VS Code" />
 </p>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Next on the bench**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,docker&theme=dark" alt="Kali Linux, Docker" />
+</p>
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-<p align="center">
+## Featured Projects
 
-> **"Learning by building, documenting, and improving every day."**
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Learning-Python](YOUR_GITHUB_URL)** | Python programs, exercises, and automation practice. | `Python` |
+| **[Learning-SQL](YOUR_GITHUB_URL)** | SQL fundamentals using MariaDB. | `SQL` `MariaDB` `Linux` |
+| **[Cybersecurity Journey](YOUR_GITHUB_URL)** | Cybersecurity notes, labs, and technical documentation. | `Linux` `Security` |
+| **[CCNA Journey](YOUR_GITHUB_URL)** | Networking studies and Packet Tracer labs. | `Networking` `Cisco` |
 
-</p>
+---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-</p>
+## Learning Roadmap
+
+```text
+Linux           ██████████████████░░░░░░░░░░   In progress
+Python          ███████████████░░░░░░░░░░░░░   In progress
+Networking      ████████████░░░░░░░░░░░░░░░░   In progress
+SQL             ██████████░░░░░░░░░░░░░░░░░░   In progress
+Cybersecurity   ████████░░░░░░░░░░░░░░░░░░░░   In progress
+```
+
+```mermaid
+graph LR
+    A[Linux] --> B[Python]
+    B --> C[Networking]
+    C --> D[SQL]
+    D --> E[Cybersecurity]
+```
+
+---
+
+## Certifications (In Progress)
+
+| Certification | Status |
+| :--- | :--- |
+| Google Cybersecurity Professional Certificate | In progress |
+| CompTIA Security+ | Planned |
+| CompTIA Network+ | Planned |
+| Cisco CCNA | Planned |
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=tokyonight" alt="Contribution streak" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## Writing & Knowledge Sharing
+
+Documenting what I learn is part of how I learn it.
+
+- **Substack** — articles on cybersecurity concepts, written for people starting out
+- **Write-ups** — walkthroughs of the labs and exercises I complete
+- **Technical notes** — command references, configuration notes, and troubleshooting logs
+
+Each repository above carries its own notes, including the mistakes I made and how I resolved them.
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="YOUR_GITHUB_URL">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br /><br />
+
+<sub>Learning in public, one lab at a time.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="" />
+
+</div>
