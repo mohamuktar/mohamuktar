@@ -21,7 +21,7 @@
 
 ## Introduction
 
-Hi, I'm **Mohamed Muktar** — a Cybersecurity Operations student at **Highline College**, working toward a career as a **SOC Analyst**.
+Hi, I'm **Mohamed Muktar Ibrahim** — a Cybersecurity Operations student at **Highline College**, working toward a career as a **SOC Analyst**.
 
 My learning happens in the terminal. I set up labs, break things on purpose, read the error messages, and write down what I learned. Right now that means getting fluent with **Linux**, understanding how traffic actually moves across a **network**, automating repetitive work with **Python**, and querying data with **SQL**.
 
