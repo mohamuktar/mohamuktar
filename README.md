@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Operations+Student;Linux+%7C+Networking+%7C+Python;Building+Security+Skills+Through+Labs;Learning+By+Building+And+Documenting" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Linux+%7C+Networking+%7C+Python;Building+Security+Skills+Through+Labs;Learning+By+Building+And+Documenting" />
 </a>
 
 <br><br>
@@ -18,7 +18,7 @@
 
 # 👋 Hi, I'm Mohamed Muktar
 
-I am a **Cybersecurity Operations student at Highline College** building my foundation in cybersecurity through hands-on labs, technical projects, and continuous learning.
+I am a **Cybersecurity student at Highline College** building my foundation in cybersecurity through hands-on labs, technical projects, and continuous learning.
 
 My approach is simple:
 
