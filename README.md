@@ -158,9 +158,10 @@ Areas I am developing:
 
 | Certification | Status |
 |---|---|
-| CompTIA Security+ | Planned |
-| CompTIA Network+ | Planned |
 | Cisco CCNA | Planned |
+| CompTIA Security+ | Planned |
+| CompTIA Linux+ | Planned |
+
 
 ---
 
